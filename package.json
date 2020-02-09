@@ -1,0 +1,10 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "Module Assignment 2, question 8",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
